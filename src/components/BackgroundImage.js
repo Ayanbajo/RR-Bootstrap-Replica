@@ -15,7 +15,7 @@ function BackgroundImage() {
                     </Card.Text>
                     <Form>
                         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                            <Form.Control size="lg" type="text" placeholder="   Enter your address                                                          ->" />
+                            <Form.Control size="lg" type="text" placeholder="   Enter your address" />
                         </Form.Group>
                     </Form>
                 </Card.ImgOverlay> 
